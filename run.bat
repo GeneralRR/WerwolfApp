@@ -1,0 +1,2 @@
+cd cls
+java Main

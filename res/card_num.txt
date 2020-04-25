@@ -1,0 +1,16 @@
+Armor;1
+Chef;1
+Hure;1
+Mentor;1
+UnruheStifter;1
+OrdnungsAmt;1
+Pirat;1
+Jaeger;2
+AgentSmith;1
+Werwolf;2
+RosaWerwolf;1
+Vampir;1
+Van Helsing;1
+Hexe;1
+Seher;1
+Wehrhamster;1

@@ -1,0 +1,17 @@
+#Rollen Typ;Rollen Name;Rollen Team;Bild ID;Rollen Beschreibung
+Job;Armor;DB;6;
+Job;Chef;DB;1;
+Power;AgentSmith;;1;
+Job;Hure;DB;1;
+Job;Mentor;DB;1;
+Power;Werwolf;WW;4;
+Power;RosaWerwolf;RWW;9;
+Power;Vampir;V;1;
+Power;Van Helsing;DB;1;
+Power;Hexe;DB;3;
+Power;Seher;DB;7;
+Job;UnruheStifter;DB;1;
+Job;OrdnungsAmt;DB;1;
+Job;Pirat;DB;1;
+Power;Wehrhamster;DB;1;
+Job;Jaeger;DB;1;
