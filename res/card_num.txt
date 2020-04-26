@@ -2,15 +2,15 @@ Armor;1
 Chef;1
 Hure;1
 Mentor;1
-UnruheStifter;1
-OrdnungsAmt;1
-Pirat;1
-Jaeger;2
-AgentSmith;1
+UnruheStifter;0
+OrdnungsAmt;0
+Pirat;0
+Jaeger;1
+AgentSmith;0
 Werwolf;2
 RosaWerwolf;1
-Vampir;1
-Van Helsing;1
+Vampir;0
+Van Helsing;0
 Hexe;1
 Seher;1
-Wehrhamster;1
+Wehrhamster;0
