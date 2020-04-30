@@ -15,3 +15,5 @@ Job;OrdnungsAmt;DB;1;
 Job;Pirat;DB;1;
 Power;Wehrhamster;DB;1;
 Job;Jaeger;DB;1;
+Job;Anwalt;DB;1;
+Power;Jesus;DB;1;

@@ -6,6 +6,7 @@ UnruheStifter;1
 OrdnungsAmt;1
 Pirat;1
 Jaeger;2
+Anwalt;1
 AgentSmith;1
 Werwolf;2
 RosaWerwolf;1
@@ -14,3 +15,4 @@ Van Helsing;1
 Hexe;1
 Seher;1
 Wehrhamster;1
+Jesus;1
